@@ -1,4 +1,4 @@
-package org.example
+package ru.knpp.aseto.fileserver
 
 /**
  * @Project : <h3>Default (Template) Project</h3>
@@ -9,5 +9,5 @@ package org.example
  * @date 2024-01-10 08:48
  **/
 fun main() {
-    println("Hello World!")
+    println("KNPP ASETO File Server")
 }
